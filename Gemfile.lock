@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    bl-security-addons (0.0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jwt (2.7.1)
+
+PLATFORMS
+  x86_64-darwin-21
+
+DEPENDENCIES
+  bl-security-addons!
+  jwt
+
+BUNDLED WITH
+   2.3.7
