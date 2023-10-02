@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bl-security-addons (0.0.0.1)
+    bl_security_addons (0.0.0.2)
 
 GEM
   remote: https://rubygems.org/
@@ -12,7 +12,7 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
-  bl-security-addons!
+  bl_security_addons!
   jwt
 
 BUNDLED WITH
