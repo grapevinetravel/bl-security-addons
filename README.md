@@ -7,7 +7,7 @@ Basic security tools for satellites.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bl-security-addons'
+gem 'bl_security_addons'
 ```
 
 And then execute:

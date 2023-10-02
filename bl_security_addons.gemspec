@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-require_relative 'lib/bl-security-addons/version'
+require_relative 'lib/bl_security_addons/version'
 
 Gem::Specification.new do |spec|
-  spec.name = 'bl-security-addons'
+  spec.name = 'bl_security_addons'
   spec.version = BlSecurityAddons::VERSION
   spec.authors = ['AlejandroFernandesAntunes']
   spec.email = ['aantunes70@hotmail.com']
